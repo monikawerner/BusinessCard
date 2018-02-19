@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 /**
   * After clicking the linkedin icon the user can visit the profile on linkedin
  */
-ImageView linkedin = (ImageView) findViewById(R.id.linkedin_icon);
+        ImageView linkedin = (ImageView) findViewById(R.id.linkedin_icon);
         linkedin.setClickable(true);
         linkedin.setOnClickListener(new View.OnClickListener() {
             @Override
