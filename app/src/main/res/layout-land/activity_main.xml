@@ -78,7 +78,7 @@
             android:layout_marginLeft="@dimen/margin_left"
             android:layout_marginRight="@dimen/margin_right"
             android:layout_weight="1"
-            android:src="@drawable/icon_mail" />
+            android:src="@drawable/icon_gmail" />
 
         <ImageView
             android:id="@+id/linkedin_icon"
